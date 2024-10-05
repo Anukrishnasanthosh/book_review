@@ -1,0 +1,19 @@
+{
+  "name": "book_review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Anukrishna",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.7",
+    "pg": "^8.13.0"
+  }
+}
